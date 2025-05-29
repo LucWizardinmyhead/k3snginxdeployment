@@ -2,8 +2,6 @@ Deploying and managing Nginx Service on K3s via terminal
 
 Author: Lucas Jones
 
-Date: April 13, 2025
-
 This week, I want to challenge myself by interacting directly with my local K3s cluster through the terminal.
 
 In this post, I’ll walk through deploying a Nginx web server, exposing it, scaling the pods, rolling out an update, viewing logs, and cleaning it up.
